@@ -1,2 +1,2 @@
 # thai-bot
-Hackathon project for managing thai orders using the Google Chat API
+Our winning hackathon project for managing thai orders using the Google Chat API
